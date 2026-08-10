@@ -1,0 +1,6978 @@
+[
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:35"
+    },
+    "arrival": {
+      "iataCode": "vie",
+      "icaoCode": "loww",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "14:05"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "183",
+      "iataNumber": "qr183",
+      "icaoNumber": "qtr183"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "06:25"
+    },
+    "arrival": {
+      "iataCode": "amm",
+      "icaoCode": "ojai",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:10"
+    },
+    "aircraft": {
+      "modelCode": "a21n",
+      "modelText": "airbus a321-271nx"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "6100",
+      "iataNumber": "qr6100",
+      "icaoNumber": "qtr6100"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "royal jordanian",
+        "iataCode": "rj",
+        "icaoCode": "rja"
+      },
+      "flight": {
+        "number": "651",
+        "iataNumber": "rj651",
+        "icaoNumber": "rja651"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:40"
+    },
+    "arrival": {
+      "iataCode": "jed",
+      "icaoCode": "oejn",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "10:10"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1190",
+      "iataNumber": "qr1190",
+      "icaoNumber": "qtr1190"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:00"
+    },
+    "arrival": {
+      "iataCode": "ayt",
+      "icaoCode": "ltai",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "11:50"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "315",
+      "iataNumber": "qr315",
+      "icaoNumber": "qtr315"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:55"
+    },
+    "arrival": {
+      "iataCode": "ist",
+      "icaoCode": "ltfm",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "12:15"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "239",
+      "iataNumber": "qr239",
+      "icaoNumber": "qtr239"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:00"
+    },
+    "arrival": {
+      "iataCode": "shj",
+      "icaoCode": "omsj",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "11:15"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1038",
+      "iataNumber": "qr1038",
+      "icaoNumber": "qtr1038"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:30"
+    },
+    "arrival": {
+      "iataCode": "mad",
+      "icaoCode": "lemd",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "14:15"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "149",
+      "iataNumber": "qr149",
+      "icaoNumber": "qtr149"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:55"
+    },
+    "arrival": {
+      "iataCode": "mle",
+      "icaoCode": "vrmm",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:30"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "674",
+      "iataNumber": "qr674",
+      "icaoNumber": "qtr674"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c2",
+      "scheduledTime": "07:40"
+    },
+    "arrival": {
+      "iataCode": "dfw",
+      "icaoCode": "kdfw",
+      "terminal": "d",
+      "gate": "d15",
+      "scheduledTime": "15:40"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "729",
+      "iataNumber": "qr729",
+      "icaoNumber": "qtr729"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:40"
+    },
+    "arrival": {
+      "iataCode": "sfo",
+      "icaoCode": "ksfo",
+      "terminal": "intl",
+      "gate": "",
+      "scheduledTime": "13:55"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "737",
+      "iataNumber": "qr737",
+      "icaoNumber": "qtr737"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c1",
+      "scheduledTime": "07:55"
+    },
+    "arrival": {
+      "iataCode": "mnl",
+      "icaoCode": "rpll",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "22:20"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "928",
+      "iataNumber": "qr928",
+      "icaoNumber": "qtr928"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:50"
+    },
+    "arrival": {
+      "iataCode": "dps",
+      "icaoCode": "wadd",
+      "terminal": "i",
+      "gate": "",
+      "scheduledTime": "22:40"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "960",
+      "iataNumber": "qr960",
+      "icaoNumber": "qtr960"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a5",
+      "scheduledTime": "07:50"
+    },
+    "arrival": {
+      "iataCode": "man",
+      "icaoCode": "egcc",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "14:00"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "27",
+      "iataNumber": "qr27",
+      "icaoNumber": "qtr27"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:50"
+    },
+    "arrival": {
+      "iataCode": "dub",
+      "icaoCode": "eidw",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "13:30"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "17",
+      "iataNumber": "qr17",
+      "icaoNumber": "qtr17"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:55"
+    },
+    "arrival": {
+      "iataCode": "dxb",
+      "icaoCode": "omdb",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "10:15"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1006",
+      "iataNumber": "qr1006",
+      "icaoNumber": "qtr1006"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:00"
+    },
+    "arrival": {
+      "iataCode": "lhr",
+      "icaoCode": "egll",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "13:15"
+    },
+    "aircraft": {
+      "modelCode": "a388",
+      "modelText": "airbus a380-861"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "3",
+      "iataNumber": "qr3",
+      "icaoNumber": "qtr3"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:40"
+    },
+    "arrival": {
+      "iataCode": "agp",
+      "icaoCode": "lemg",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:35"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "155",
+      "iataNumber": "qr155",
+      "icaoNumber": "qtr155"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c4",
+      "scheduledTime": "07:30"
+    },
+    "arrival": {
+      "iataCode": "lax",
+      "icaoCode": "klax",
+      "terminal": "tbit",
+      "gate": "",
+      "scheduledTime": "14:00"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "739",
+      "iataNumber": "qr739",
+      "icaoNumber": "qtr739"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:10"
+    },
+    "arrival": {
+      "iataCode": "ord",
+      "icaoCode": "kord",
+      "terminal": "5",
+      "gate": "",
+      "scheduledTime": "15:05"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "725",
+      "iataNumber": "qr725",
+      "icaoNumber": "qtr725"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:45"
+    },
+    "arrival": {
+      "iataCode": "ath",
+      "icaoCode": "lgav",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "12:25"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "203",
+      "iataNumber": "qr203",
+      "icaoNumber": "qtr203"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:40"
+    },
+    "arrival": {
+      "iataCode": "sea",
+      "icaoCode": "ksea",
+      "terminal": "",
+      "gate": "s15",
+      "scheduledTime": "12:55"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "719",
+      "iataNumber": "qr719",
+      "icaoNumber": "qtr719"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "e1",
+      "scheduledTime": "08:25"
+    },
+    "arrival": {
+      "iataCode": "mia",
+      "icaoCode": "kmia",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "16:40"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "777",
+      "iataNumber": "qr777",
+      "icaoNumber": "qtr777"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:40"
+    },
+    "arrival": {
+      "iataCode": "alg",
+      "icaoCode": "daag",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "13:15"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1379",
+      "iataNumber": "qr1379",
+      "icaoNumber": "qtr1379"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:15"
+    },
+    "arrival": {
+      "iataCode": "edi",
+      "icaoCode": "egph",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "13:40"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "29",
+      "iataNumber": "qr29",
+      "icaoNumber": "qtr29"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:20"
+    },
+    "arrival": {
+      "iataCode": "iad",
+      "icaoCode": "kiad",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:40"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "707",
+      "iataNumber": "qr707",
+      "icaoNumber": "qtr707"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "e5",
+      "scheduledTime": "08:10"
+    },
+    "arrival": {
+      "iataCode": "ams",
+      "icaoCode": "eham",
+      "terminal": "",
+      "gate": "f7",
+      "scheduledTime": "13:55"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "273",
+      "iataNumber": "qr273",
+      "icaoNumber": "qtr273"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:15"
+    },
+    "arrival": {
+      "iataCode": "bsr",
+      "icaoCode": "ormm",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:50"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways (uefa champions league livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "448",
+      "iataNumber": "qr448",
+      "icaoNumber": "qtr448"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:15"
+    },
+    "arrival": {
+      "iataCode": "dmm",
+      "icaoCode": "oedf",
+      "terminal": "",
+      "gate": "27",
+      "scheduledTime": "09:20"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1150",
+      "iataNumber": "qr1150",
+      "icaoNumber": "qtr1150"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:00"
+    },
+    "arrival": {
+      "iataCode": "bey",
+      "icaoCode": "olba",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "11:35"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "416",
+      "iataNumber": "qr416",
+      "icaoNumber": "qtr416"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:00"
+    },
+    "arrival": {
+      "iataCode": "gru",
+      "icaoCode": "sbgr",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "17:05"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-2dz(lr)"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "773",
+      "iataNumber": "qr773",
+      "icaoNumber": "qtr773"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:30"
+    },
+    "arrival": {
+      "iataCode": "cmn",
+      "icaoCode": "gmmn",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:20"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1395",
+      "iataNumber": "qr1395",
+      "icaoNumber": "qtr1395"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "8",
+      "scheduledTime": "07:50"
+    },
+    "arrival": {
+      "iataCode": "hyd",
+      "icaoCode": "vohs",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:40"
+    },
+    "aircraft": {
+      "modelCode": "a20n",
+      "modelText": "airbus a320-251n"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4776",
+      "iataNumber": "qr4776",
+      "icaoNumber": "qtr4776"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "indigo",
+        "iataCode": "6e",
+        "icaoCode": "igo"
+      },
+      "flight": {
+        "number": "1314",
+        "iataNumber": "6e1314",
+        "icaoNumber": "igo1314"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "b10",
+      "scheduledTime": "13:50"
+    },
+    "arrival": {
+      "iataCode": "tzx",
+      "icaoCode": "ltcg",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "17:50"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "319",
+      "iataNumber": "qr319",
+      "icaoNumber": "qtr319"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c14",
+      "scheduledTime": "08:40"
+    },
+    "arrival": {
+      "iataCode": "yul",
+      "icaoCode": "cyul",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:45"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "763",
+      "iataNumber": "qr763",
+      "icaoNumber": "qtr763"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:35"
+    },
+    "arrival": {
+      "iataCode": "cai",
+      "icaoCode": "heca",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "11:10"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-367(er)"
+    },
+    "airline": {
+      "name": "qatar airways (retro 1997 livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1303",
+      "iataNumber": "qr1303",
+      "icaoNumber": "qtr1303"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a3",
+      "scheduledTime": "08:05"
+    },
+    "arrival": {
+      "iataCode": "cdg",
+      "icaoCode": "lfpg",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:25"
+    },
+    "aircraft": {
+      "modelCode": "a388",
+      "modelText": "airbus a380-861"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "39",
+      "iataNumber": "qr39",
+      "icaoNumber": "qtr39"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:30"
+    },
+    "arrival": {
+      "iataCode": "osl",
+      "icaoCode": "engm",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:30"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "175",
+      "iataNumber": "qr175",
+      "icaoNumber": "qtr175"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "8",
+      "scheduledTime": "07:45"
+    },
+    "arrival": {
+      "iataCode": "del",
+      "icaoCode": "vidp",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "14:35"
+    },
+    "aircraft": {
+      "modelCode": "a21n",
+      "modelText": "airbus a321-252nx"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4790",
+      "iataNumber": "qr4790",
+      "icaoNumber": "qtr4790"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "indigo",
+        "iataCode": "6e",
+        "icaoCode": "igo"
+      },
+      "flight": {
+        "number": "1308",
+        "iataNumber": "6e1308",
+        "icaoNumber": "igo1308"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:45"
+    },
+    "arrival": {
+      "iataCode": "lca",
+      "icaoCode": "lclk",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "12:05"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "265",
+      "iataNumber": "qr265",
+      "icaoNumber": "qtr265"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a7",
+      "scheduledTime": "08:40"
+    },
+    "arrival": {
+      "iataCode": "cgk",
+      "icaoCode": "wiii",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "21:40"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "954",
+      "iataNumber": "qr954",
+      "icaoNumber": "qtr954"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:45"
+    },
+    "arrival": {
+      "iataCode": "auh",
+      "icaoCode": "omaa",
+      "terminal": "a",
+      "gate": "",
+      "scheduledTime": "10:55"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1044",
+      "iataNumber": "qr1044",
+      "icaoNumber": "qtr1044"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:55"
+    },
+    "arrival": {
+      "iataCode": "lhr",
+      "icaoCode": "egll",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "14:10"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "7",
+      "iataNumber": "qr7",
+      "icaoNumber": "qtr7"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:00"
+    },
+    "arrival": {
+      "iataCode": "ber",
+      "icaoCode": "eddb",
+      "terminal": "1",
+      "gate": "x7",
+      "scheduledTime": "14:00"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "81",
+      "iataNumber": "qr81",
+      "icaoNumber": "qtr81"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:20"
+    },
+    "arrival": {
+      "iataCode": "bcn",
+      "icaoCode": "lebl",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:40"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "145",
+      "iataNumber": "qr145",
+      "icaoNumber": "qtr145"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:40"
+    },
+    "arrival": {
+      "iataCode": "bah",
+      "icaoCode": "obbi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:30"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1102",
+      "iataNumber": "qr1102",
+      "icaoNumber": "qtr1102"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:15"
+    },
+    "arrival": {
+      "iataCode": "mxp",
+      "icaoCode": "limc",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:15"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "127",
+      "iataNumber": "qr127",
+      "icaoNumber": "qtr127"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:25"
+    },
+    "arrival": {
+      "iataCode": "dam",
+      "icaoCode": "osdi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "12:00"
+    },
+    "aircraft": {
+      "modelCode": "",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "410",
+      "iataNumber": "qr410",
+      "icaoNumber": "qtr410"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:10"
+    },
+    "arrival": {
+      "iataCode": "muc",
+      "icaoCode": "eddm",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:10"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "57",
+      "iataNumber": "qr57",
+      "icaoNumber": "qtr57"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:10"
+    },
+    "arrival": {
+      "iataCode": "zrh",
+      "icaoCode": "lszh",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "14:20"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "95",
+      "iataNumber": "qr95",
+      "icaoNumber": "qtr95"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:35"
+    },
+    "arrival": {
+      "iataCode": "fra",
+      "icaoCode": "eddf",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "14:35"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "67",
+      "iataNumber": "qr67",
+      "icaoNumber": "qtr67"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:20"
+    },
+    "arrival": {
+      "iataCode": "dxb",
+      "icaoCode": "omdb",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "11:40"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1022",
+      "iataNumber": "qr1022",
+      "icaoNumber": "qtr1022"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:15"
+    },
+    "arrival": {
+      "iataCode": "fco",
+      "icaoCode": "lirf",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "14:15"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "131",
+      "iataNumber": "qr131",
+      "icaoNumber": "qtr131"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:20"
+    },
+    "arrival": {
+      "iataCode": "ktm",
+      "icaoCode": "vnkt",
+      "terminal": "i",
+      "gate": "",
+      "scheduledTime": "16:45"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "646",
+      "iataNumber": "qr646",
+      "icaoNumber": "qtr646"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:50"
+    },
+    "arrival": {
+      "iataCode": "amm",
+      "icaoCode": "ojai",
+      "terminal": "",
+      "gate": "110",
+      "scheduledTime": "12:30"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3zg(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "402",
+      "iataNumber": "qr402",
+      "icaoNumber": "qtr402"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:45"
+    },
+    "arrival": {
+      "iataCode": "svo",
+      "icaoCode": "uuee",
+      "terminal": "c",
+      "gate": "",
+      "scheduledTime": "14:15"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "339",
+      "iataNumber": "qr339",
+      "icaoNumber": "qtr339"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "10:20"
+    },
+    "arrival": {
+      "iataCode": "ebb",
+      "icaoCode": "huen",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:30"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1383",
+      "iataNumber": "qr1383",
+      "icaoNumber": "qtr1383"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "12:00"
+    },
+    "arrival": {
+      "iataCode": "ruh",
+      "icaoCode": "oerk",
+      "terminal": "5",
+      "gate": "",
+      "scheduledTime": "13:30"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1164",
+      "iataNumber": "qr1164",
+      "icaoNumber": "qtr1164"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "12:40"
+    },
+    "arrival": {
+      "iataCode": "lhr",
+      "icaoCode": "egll",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "18:00"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-2dz(lr)"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1",
+      "iataNumber": "qr1",
+      "icaoNumber": "qtr1"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "13:55"
+    },
+    "arrival": {
+      "iataCode": "amm",
+      "icaoCode": "ojai",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "16:40"
+    },
+    "aircraft": {
+      "modelCode": "a20n",
+      "modelText": "airbus a320-271n"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "6112",
+      "iataNumber": "qr6112",
+      "icaoNumber": "qtr6112"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "royal jordanian (alia retro livery)",
+        "iataCode": "rj",
+        "icaoCode": "rja"
+      },
+      "flight": {
+        "number": "653",
+        "iataNumber": "rj653",
+        "icaoNumber": "rja653"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "13:50"
+    },
+    "arrival": {
+      "iataCode": "ath",
+      "icaoCode": "lgav",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:30"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "207",
+      "iataNumber": "qr207",
+      "icaoNumber": "qtr207"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:10"
+    },
+    "arrival": {
+      "iataCode": "auh",
+      "icaoCode": "omaa",
+      "terminal": "a",
+      "gate": "",
+      "scheduledTime": "16:20"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1050",
+      "iataNumber": "qr1050",
+      "icaoNumber": "qtr1050"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:40"
+    },
+    "arrival": {
+      "iataCode": "cai",
+      "icaoCode": "heca",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "16:55"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1301",
+      "iataNumber": "qr1301",
+      "icaoNumber": "qtr1301"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:15"
+    },
+    "arrival": {
+      "iataCode": "ist",
+      "icaoCode": "ltfm",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:35"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "245",
+      "iataNumber": "qr245",
+      "icaoNumber": "qtr245"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:25"
+    },
+    "arrival": {
+      "iataCode": "man",
+      "icaoCode": "egcc",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "20:00"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "23",
+      "iataNumber": "qr23",
+      "icaoNumber": "qtr23"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:00"
+    },
+    "arrival": {
+      "iataCode": "cph",
+      "icaoCode": "ekch",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "14:25"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "159",
+      "iataNumber": "qr159",
+      "icaoNumber": "qtr159"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:15"
+    },
+    "arrival": {
+      "iataCode": "ruh",
+      "icaoCode": "oerk",
+      "terminal": "5",
+      "gate": "",
+      "scheduledTime": "09:45"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-367(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1170",
+      "iataNumber": "qr1170",
+      "icaoNumber": "qtr1170"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:00"
+    },
+    "arrival": {
+      "iataCode": "ams",
+      "icaoCode": "eham",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:45"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "283",
+      "iataNumber": "qr283",
+      "icaoNumber": "qtr283"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:10"
+    },
+    "arrival": {
+      "iataCode": "lhr",
+      "icaoCode": "egll",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "20:25"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "15",
+      "iataNumber": "qr15",
+      "icaoNumber": "qtr15"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:20"
+    },
+    "arrival": {
+      "iataCode": "cdg",
+      "icaoCode": "lfpg",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "21:10"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "37",
+      "iataNumber": "qr37",
+      "icaoNumber": "qtr37"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:15"
+    },
+    "arrival": {
+      "iataCode": "bey",
+      "icaoCode": "olba",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:50"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "426",
+      "iataNumber": "qr426",
+      "icaoNumber": "qtr426"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:35"
+    },
+    "arrival": {
+      "iataCode": "bcn",
+      "icaoCode": "lebl",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "21:15"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "141",
+      "iataNumber": "qr141",
+      "icaoNumber": "qtr141"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:35"
+    },
+    "arrival": {
+      "iataCode": "shj",
+      "icaoCode": "omsj",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "17:50"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1066",
+      "iataNumber": "qr1066",
+      "icaoNumber": "qtr1066"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:15"
+    },
+    "arrival": {
+      "iataCode": "cai",
+      "icaoCode": "heca",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "09:50"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-367(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1307",
+      "iataNumber": "qr1307",
+      "icaoNumber": "qtr1307"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:50"
+    },
+    "arrival": {
+      "iataCode": "jed",
+      "icaoCode": "oejn",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "18:20"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1186",
+      "iataNumber": "qr1186",
+      "icaoNumber": "qtr1186"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "16:15"
+    },
+    "arrival": {
+      "iataCode": "amm",
+      "icaoCode": "ojai",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:55"
+    },
+    "aircraft": {
+      "modelCode": "",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "400",
+      "iataNumber": "qr400",
+      "icaoNumber": "qtr400"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:55"
+    },
+    "arrival": {
+      "iataCode": "fco",
+      "icaoCode": "lirf",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "20:55"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "113",
+      "iataNumber": "qr113",
+      "icaoNumber": "qtr113"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:05"
+    },
+    "arrival": {
+      "iataCode": "shj",
+      "icaoCode": "omsj",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:20"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1034",
+      "iataNumber": "qr1034",
+      "icaoNumber": "qtr1034"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:25"
+    },
+    "arrival": {
+      "iataCode": "dac",
+      "icaoCode": "vghs",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "02:40"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "638",
+      "iataNumber": "qr638",
+      "icaoNumber": "qtr638"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "17:25"
+    },
+    "arrival": {
+      "iataCode": "ebl",
+      "icaoCode": "orer",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "21:00"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "450",
+      "iataNumber": "qr450",
+      "icaoNumber": "qtr450"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:30"
+    },
+    "arrival": {
+      "iataCode": "cgk",
+      "icaoCode": "wiii",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "07:30"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "958",
+      "iataNumber": "qr958",
+      "icaoNumber": "qtr958"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:35"
+    },
+    "arrival": {
+      "iataCode": "jed",
+      "icaoCode": "oejn",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "21:05"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1188",
+      "iataNumber": "qr1188",
+      "icaoNumber": "qtr1188"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "17:25"
+    },
+    "arrival": {
+      "iataCode": "bgw",
+      "icaoCode": "orbi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:40"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "442",
+      "iataNumber": "qr442",
+      "icaoNumber": "qtr442"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:55"
+    },
+    "arrival": {
+      "iataCode": "ccu",
+      "icaoCode": "vecc",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:30"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "540",
+      "iataNumber": "qr540",
+      "icaoNumber": "qtr540"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:45"
+    },
+    "arrival": {
+      "iataCode": "nbo",
+      "icaoCode": "hkjk",
+      "terminal": "1a",
+      "gate": "",
+      "scheduledTime": "23:50"
+    },
+    "aircraft": {
+      "modelCode": "",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1341",
+      "iataNumber": "qr1341",
+      "icaoNumber": "qtr1341"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:55"
+    },
+    "arrival": {
+      "iataCode": "mct",
+      "icaoCode": "ooms",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "21:30"
+    },
+    "aircraft": {
+      "modelCode": "",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1124",
+      "iataNumber": "qr1124",
+      "icaoNumber": "qtr1124"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "b10",
+      "scheduledTime": "19:00"
+    },
+    "arrival": {
+      "iataCode": "bey",
+      "icaoCode": "olba",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "22:05"
+    },
+    "aircraft": {
+      "modelCode": "a21n",
+      "modelText": "airbus a321-271nx"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4900",
+      "iataNumber": "qr4900",
+      "icaoNumber": "qtr4900"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "mea",
+        "iataCode": "me",
+        "icaoCode": "mea"
+      },
+      "flight": {
+        "number": "437",
+        "iataNumber": "me437",
+        "icaoNumber": "mea437"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:05"
+    },
+    "arrival": {
+      "iataCode": "dxb",
+      "icaoCode": "omdb",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "21:25"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-367(er)"
+    },
+    "airline": {
+      "name": "qatar airways (retro 1997 livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1014",
+      "iataNumber": "qr1014",
+      "icaoNumber": "qtr1014"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:05"
+    },
+    "arrival": {
+      "iataCode": "sll",
+      "icaoCode": "oosa",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "22:05"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1130",
+      "iataNumber": "qr1130",
+      "icaoNumber": "qtr1130"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:15"
+    },
+    "arrival": {
+      "iataCode": "hyd",
+      "icaoCode": "vohs",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:00"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "500",
+      "iataNumber": "qr500",
+      "icaoNumber": "qtr500"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c32",
+      "scheduledTime": "19:00"
+    },
+    "arrival": {
+      "iataCode": "trv",
+      "icaoCode": "votv",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "02:15"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "506",
+      "iataNumber": "qr506",
+      "icaoNumber": "qtr506"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:20"
+    },
+    "arrival": {
+      "iataCode": "kul",
+      "icaoCode": "wmkk",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "07:55"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "844",
+      "iataNumber": "qr844",
+      "icaoNumber": "qtr844"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:25"
+    },
+    "arrival": {
+      "iataCode": "bkk",
+      "icaoCode": "vtbs",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "06:20"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "838",
+      "iataNumber": "qr838",
+      "icaoNumber": "qtr838"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:35"
+    },
+    "arrival": {
+      "iataCode": "del",
+      "icaoCode": "vidp",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "01:55"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "578",
+      "iataNumber": "qr578",
+      "icaoNumber": "qtr578"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c20",
+      "scheduledTime": "19:35"
+    },
+    "arrival": {
+      "iataCode": "blr",
+      "icaoCode": "vobl",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "02:30"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "572",
+      "iataNumber": "qr572",
+      "icaoNumber": "qtr572"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "b4",
+      "scheduledTime": "19:40"
+    },
+    "arrival": {
+      "iataCode": "cok",
+      "icaoCode": "voci",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "02:45"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "516",
+      "iataNumber": "qr516",
+      "icaoNumber": "qtr516"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:40"
+    },
+    "arrival": {
+      "iataCode": "cmb",
+      "icaoCode": "vcbi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "03:05"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "658",
+      "iataNumber": "qr658",
+      "icaoNumber": "qtr658"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a4",
+      "scheduledTime": "19:50"
+    },
+    "arrival": {
+      "iataCode": "gox",
+      "icaoCode": "voga",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:15"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "522",
+      "iataNumber": "qr522",
+      "icaoNumber": "qtr522"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:50"
+    },
+    "arrival": {
+      "iataCode": "maa",
+      "icaoCode": "vomm",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "02:50"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "528",
+      "iataNumber": "qr528",
+      "icaoNumber": "qtr528"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:20"
+    },
+    "arrival": {
+      "iataCode": "maa",
+      "icaoCode": "vomm",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "02:40"
+    },
+    "aircraft": {
+      "modelCode": "a20n",
+      "modelText": "airbus a320-251n"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4788",
+      "iataNumber": "qr4788",
+      "icaoNumber": "qtr4788"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "indigo",
+        "iataCode": "6e",
+        "icaoCode": "igo"
+      },
+      "flight": {
+        "number": "1322",
+        "iataNumber": "6e1322",
+        "icaoNumber": "igo1322"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:50"
+    },
+    "arrival": {
+      "iataCode": "atq",
+      "icaoCode": "viar",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:10"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "548",
+      "iataNumber": "qr548",
+      "icaoNumber": "qtr548"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:50"
+    },
+    "arrival": {
+      "iataCode": "dmm",
+      "icaoCode": "oedf",
+      "terminal": "",
+      "gate": "26",
+      "scheduledTime": "20:55"
+    },
+    "aircraft": {
+      "modelCode": "",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1154",
+      "iataNumber": "qr1154",
+      "icaoNumber": "qtr1154"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:00"
+    },
+    "arrival": {
+      "iataCode": "lhe",
+      "icaoCode": "opla",
+      "terminal": "m",
+      "gate": "",
+      "scheduledTime": "01:30"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "620",
+      "iataNumber": "qr620",
+      "icaoNumber": "qtr620"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:05"
+    },
+    "arrival": {
+      "iataCode": "han",
+      "icaoCode": "vvnb",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "07:15"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "982",
+      "iataNumber": "qr982",
+      "icaoNumber": "qtr982"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:55"
+    },
+    "arrival": {
+      "iataCode": "bah",
+      "icaoCode": "obbi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:50"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1108",
+      "iataNumber": "qr1108",
+      "icaoNumber": "qtr1108"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:05"
+    },
+    "arrival": {
+      "iataCode": "auh",
+      "icaoCode": "omaa",
+      "terminal": "a",
+      "gate": "",
+      "scheduledTime": "22:15"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1054",
+      "iataNumber": "qr1054",
+      "icaoNumber": "qtr1054"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:40"
+    },
+    "arrival": {
+      "iataCode": "bom",
+      "icaoCode": "vabb",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "02:50"
+    },
+    "aircraft": {
+      "modelCode": "a21n",
+      "modelText": "airbus a321-252nx"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4770",
+      "iataNumber": "qr4770",
+      "icaoNumber": "qtr4770"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "indigo",
+        "iataCode": "6e",
+        "icaoCode": "igo"
+      },
+      "flight": {
+        "number": "1306",
+        "iataNumber": "6e1306",
+        "icaoNumber": "igo1306"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:00"
+    },
+    "arrival": {
+      "iataCode": "amd",
+      "icaoCode": "vaah",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "01:50"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "534",
+      "iataNumber": "qr534",
+      "icaoNumber": "qtr534"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:05"
+    },
+    "arrival": {
+      "iataCode": "syd",
+      "icaoCode": "yssy",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "17:10"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "908",
+      "iataNumber": "qr908",
+      "icaoNumber": "qtr908"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:20"
+    },
+    "arrival": {
+      "iataCode": "cai",
+      "icaoCode": "heca",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "21:35"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1305",
+      "iataNumber": "qr1305",
+      "icaoNumber": "qtr1305"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c5",
+      "scheduledTime": "20:20"
+    },
+    "arrival": {
+      "iataCode": "isb",
+      "icaoCode": "opis",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:50"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "632",
+      "iataNumber": "qr632",
+      "icaoNumber": "qtr632"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:25"
+    },
+    "arrival": {
+      "iataCode": "bne",
+      "icaoCode": "ybbn",
+      "terminal": "i",
+      "gate": "82",
+      "scheduledTime": "17:30"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "898",
+      "iataNumber": "qr898",
+      "icaoNumber": "qtr898"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:30"
+    },
+    "arrival": {
+      "iataCode": "adl",
+      "icaoCode": "ypad",
+      "terminal": "1",
+      "gate": "18",
+      "scheduledTime": "15:00"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "914",
+      "iataNumber": "qr914",
+      "icaoNumber": "qtr914"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:20"
+    },
+    "arrival": {
+      "iataCode": "mel",
+      "icaoCode": "ymml",
+      "terminal": "2",
+      "gate": "10",
+      "scheduledTime": "16:50"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways (formula 1 - global partner livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "904",
+      "iataNumber": "qr904",
+      "icaoNumber": "qtr904"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:20"
+    },
+    "arrival": {
+      "iataCode": "bkk",
+      "icaoCode": "vtbs",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:15"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "830",
+      "iataNumber": "qr830",
+      "icaoNumber": "qtr830"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:35"
+    },
+    "arrival": {
+      "iataCode": "bom",
+      "icaoCode": "vabb",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "02:40"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "556",
+      "iataNumber": "qr556",
+      "icaoNumber": "qtr556"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:45"
+    },
+    "arrival": {
+      "iataCode": "hkt",
+      "icaoCode": "vtsp",
+      "terminal": "i",
+      "gate": "",
+      "scheduledTime": "07:45"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3zg(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "842",
+      "iataNumber": "qr842",
+      "icaoNumber": "qtr842"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:45"
+    },
+    "arrival": {
+      "iataCode": "bey",
+      "icaoCode": "olba",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "00:10"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "418",
+      "iataNumber": "qr418",
+      "icaoNumber": "qtr418"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c16",
+      "scheduledTime": "21:10"
+    },
+    "arrival": {
+      "iataCode": "khi",
+      "icaoCode": "opkc",
+      "terminal": "m",
+      "gate": "",
+      "scheduledTime": "01:45"
+    },
+    "aircraft": {
+      "modelCode": "",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "604",
+      "iataNumber": "qr604",
+      "icaoNumber": "qtr604"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "21:45"
+    },
+    "arrival": {
+      "iataCode": "mct",
+      "icaoCode": "ooms",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "00:15"
+    },
+    "aircraft": {
+      "modelCode": "b38m",
+      "modelText": "boeing 737 max 8"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4635",
+      "iataNumber": "qr4635",
+      "icaoNumber": "qtr4635"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "oman air",
+        "iataCode": "wy",
+        "icaoCode": "oma"
+      },
+      "flight": {
+        "number": "662",
+        "iataNumber": "wy662",
+        "icaoNumber": "oma662"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "22:30"
+    },
+    "arrival": {
+      "iataCode": "cmb",
+      "icaoCode": "vcbi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "05:55"
+    },
+    "aircraft": {
+      "modelCode": "a21n",
+      "modelText": "airbus a321-251n"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4917",
+      "iataNumber": "qr4917",
+      "icaoNumber": "qtr4917"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "srilankan airlines",
+        "iataCode": "ul",
+        "icaoCode": "alk"
+      },
+      "flight": {
+        "number": "218",
+        "iataNumber": "ul218",
+        "icaoNumber": "alk218"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "23:10"
+    },
+    "arrival": {
+      "iataCode": "jed",
+      "icaoCode": "oejn",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "01:40"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1182",
+      "iataNumber": "qr1182",
+      "icaoNumber": "qtr1182"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "00:50"
+    },
+    "arrival": {
+      "iataCode": "jed",
+      "icaoCode": "oejn",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "03:20"
+    },
+    "aircraft": {
+      "modelCode": "",
+      "modelText": ""
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1184",
+      "iataNumber": "qr1184",
+      "icaoNumber": "qtr1184"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a4",
+      "scheduledTime": "00:10"
+    },
+    "arrival": {
+      "iataCode": "isu",
+      "icaoCode": "orsj",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "03:25"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "436",
+      "iataNumber": "qr436",
+      "icaoNumber": "qtr436"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:05"
+    },
+    "arrival": {
+      "iataCode": "lis",
+      "icaoCode": "lppt",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "06:55"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "343",
+      "iataNumber": "qr343",
+      "icaoNumber": "qtr343"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c30",
+      "scheduledTime": "01:05"
+    },
+    "arrival": {
+      "iataCode": "dxb",
+      "icaoCode": "omdb",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "03:25"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-367(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1002",
+      "iataNumber": "qr1002",
+      "icaoNumber": "qtr1002"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:00"
+    },
+    "arrival": {
+      "iataCode": "mpm",
+      "icaoCode": "fqma",
+      "terminal": "b",
+      "gate": "",
+      "scheduledTime": "07:55"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1375",
+      "iataNumber": "qr1375",
+      "icaoNumber": "qtr1375"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c8",
+      "scheduledTime": "01:00"
+    },
+    "arrival": {
+      "iataCode": "man",
+      "icaoCode": "egcc",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "06:20"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "21",
+      "iataNumber": "qr21",
+      "icaoNumber": "qtr21"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c14",
+      "scheduledTime": "01:25"
+    },
+    "arrival": {
+      "iataCode": "dac",
+      "icaoCode": "vghs",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "09:40"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways (25th anniversary retro livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "640",
+      "iataNumber": "qr640",
+      "icaoNumber": "qtr640"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:25"
+    },
+    "arrival": {
+      "iataCode": "mad",
+      "icaoCode": "lemd",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "07:35"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "147",
+      "iataNumber": "qr147",
+      "icaoNumber": "qtr147"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": ""
+    },
+    "arrival": {
+      "iataCode": "bgw",
+      "icaoCode": "orbi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "03:20"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "458",
+      "iataNumber": "qr458",
+      "icaoNumber": "qtr458"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:25"
+    },
+    "arrival": {
+      "iataCode": "iad",
+      "icaoCode": "kiad",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:45"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "709",
+      "iataNumber": "qr709",
+      "icaoNumber": "qtr709"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c4",
+      "scheduledTime": "01:50"
+    },
+    "arrival": {
+      "iataCode": "dfw",
+      "icaoCode": "kdfw",
+      "terminal": "d",
+      "gate": "",
+      "scheduledTime": "09:50"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "731",
+      "iataNumber": "qr731",
+      "icaoNumber": "qtr731"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:20"
+    },
+    "arrival": {
+      "iataCode": "mct",
+      "icaoCode": "ooms",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "03:55"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1148",
+      "iataNumber": "qr1148",
+      "icaoNumber": "qtr1148"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:35"
+    },
+    "arrival": {
+      "iataCode": "lgw",
+      "icaoCode": "egkk",
+      "terminal": "n",
+      "gate": "",
+      "scheduledTime": "06:40"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "329",
+      "iataNumber": "qr329",
+      "icaoNumber": "qtr329"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "b9",
+      "scheduledTime": "01:25"
+    },
+    "arrival": {
+      "iataCode": "ktm",
+      "icaoCode": "vnkt",
+      "terminal": "i",
+      "gate": "",
+      "scheduledTime": "08:50"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "648",
+      "iataNumber": "qr648",
+      "icaoNumber": "qtr648"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c13",
+      "scheduledTime": "01:25"
+    },
+    "arrival": {
+      "iataCode": "cdg",
+      "icaoCode": "lfpg",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "07:15"
+    },
+    "aircraft": {
+      "modelCode": "a388",
+      "modelText": "airbus a380-861"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "41",
+      "iataNumber": "qr41",
+      "icaoNumber": "qtr41"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "los",
+      "icaoCode": "dnmm",
+      "terminal": "2i",
+      "gate": "",
+      "scheduledTime": "07:25"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1407",
+      "iataNumber": "qr1407",
+      "icaoNumber": "qtr1407"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:40"
+    },
+    "arrival": {
+      "iataCode": "nbo",
+      "icaoCode": "hkjk",
+      "terminal": "1a",
+      "gate": "",
+      "scheduledTime": "06:45"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1335",
+      "iataNumber": "qr1335",
+      "icaoNumber": "qtr1335"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:45"
+    },
+    "arrival": {
+      "iataCode": "bru",
+      "icaoCode": "ebbr",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:25"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways (formula 1 livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "195",
+      "iataNumber": "qr195",
+      "icaoNumber": "qtr195"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "b6",
+      "scheduledTime": "01:35"
+    },
+    "arrival": {
+      "iataCode": "cmb",
+      "icaoCode": "vcbi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:00"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "664",
+      "iataNumber": "qr664",
+      "icaoNumber": "qtr664"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:50"
+    },
+    "arrival": {
+      "iataCode": "bcn",
+      "icaoCode": "lebl",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "07:30"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "137",
+      "iataNumber": "qr137",
+      "icaoNumber": "qtr137"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:40"
+    },
+    "arrival": {
+      "iataCode": "kix",
+      "icaoCode": "rjbb",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "17:25"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "802",
+      "iataNumber": "qr802",
+      "icaoNumber": "qtr802"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a8",
+      "scheduledTime": "02:15"
+    },
+    "arrival": {
+      "iataCode": "abj",
+      "icaoCode": "diap",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "07:20"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1424",
+      "iataNumber": "qr1424",
+      "icaoNumber": "qtr1424"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:15"
+    },
+    "arrival": {
+      "iataCode": "fra",
+      "icaoCode": "eddf",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "07:15"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "69",
+      "iataNumber": "qr69",
+      "icaoNumber": "qtr69"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "vie",
+      "icaoCode": "loww",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "07:00"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "189",
+      "iataNumber": "qr189",
+      "icaoNumber": "qtr189"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "ruh",
+      "icaoCode": "oerk",
+      "terminal": "5",
+      "gate": "",
+      "scheduledTime": "03:30"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1166",
+      "iataNumber": "qr1166",
+      "icaoNumber": "qtr1166"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "mxp",
+      "icaoCode": "limc",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "07:10"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "123",
+      "iataNumber": "qr123",
+      "icaoNumber": "qtr123"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "muc",
+      "icaoCode": "eddm",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "07:00"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "59",
+      "iataNumber": "qr59",
+      "icaoNumber": "qtr59"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:05"
+    },
+    "arrival": {
+      "iataCode": "zag",
+      "icaoCode": "ldza",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "06:55"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "215",
+      "iataNumber": "qr215",
+      "icaoNumber": "qtr215"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "sgn",
+      "icaoCode": "vvts",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "13:50"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "970",
+      "iataNumber": "qr970",
+      "icaoNumber": "qtr970"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:55"
+    },
+    "arrival": {
+      "iataCode": "shj",
+      "icaoCode": "omsj",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "04:10"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1060",
+      "iataNumber": "qr1060",
+      "icaoNumber": "qtr1060"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a4",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "ist",
+      "icaoCode": "ltfm",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "06:35"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "237",
+      "iataNumber": "qr237",
+      "icaoNumber": "qtr237"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:25"
+    },
+    "arrival": {
+      "iataCode": "cpt",
+      "icaoCode": "fact",
+      "terminal": "",
+      "gate": "a3",
+      "scheduledTime": "10:15"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1369",
+      "iataNumber": "qr1369",
+      "icaoNumber": "qtr1369"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:40"
+    },
+    "arrival": {
+      "iataCode": "jnb",
+      "icaoCode": "faor",
+      "terminal": "a",
+      "gate": "a03",
+      "scheduledTime": "09:10"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1363",
+      "iataNumber": "qr1363",
+      "icaoNumber": "qtr1363"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c1",
+      "scheduledTime": "02:10"
+    },
+    "arrival": {
+      "iataCode": "isb",
+      "icaoCode": "opis",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:40"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "614",
+      "iataNumber": "qr614",
+      "icaoNumber": "qtr614"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "e7",
+      "scheduledTime": "02:10"
+    },
+    "arrival": {
+      "iataCode": "pvg",
+      "icaoCode": "zspd",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "16:20"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "870",
+      "iataNumber": "qr870",
+      "icaoNumber": "qtr870"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:15"
+    },
+    "arrival": {
+      "iataCode": "auh",
+      "icaoCode": "omaa",
+      "terminal": "a",
+      "gate": "",
+      "scheduledTime": "04:25"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1040",
+      "iataNumber": "qr1040",
+      "icaoNumber": "qtr1040"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:10"
+    },
+    "arrival": {
+      "iataCode": "bah",
+      "icaoCode": "obbi",
+      "terminal": "",
+      "gate": "17a",
+      "scheduledTime": "03:05"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1116",
+      "iataNumber": "qr1116",
+      "icaoNumber": "qtr1116"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:20"
+    },
+    "arrival": {
+      "iataCode": "dus",
+      "icaoCode": "eddl",
+      "terminal": "c",
+      "gate": "c37",
+      "scheduledTime": "07:50"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "87",
+      "iataNumber": "qr87",
+      "icaoNumber": "qtr87"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:50"
+    },
+    "arrival": {
+      "iataCode": "icn",
+      "icaoCode": "rksi",
+      "terminal": "1",
+      "gate": "39",
+      "scheduledTime": "17:05"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "858",
+      "iataNumber": "qr858",
+      "icaoNumber": "qtr858"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:15"
+    },
+    "arrival": {
+      "iataCode": "tfu",
+      "icaoCode": "zutf",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:55"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "860",
+      "iataNumber": "qr860",
+      "icaoNumber": "qtr860"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:25"
+    },
+    "arrival": {
+      "iataCode": "del",
+      "icaoCode": "vidp",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "08:45"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "570",
+      "iataNumber": "qr570",
+      "icaoNumber": "qtr570"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c39",
+      "scheduledTime": "02:20"
+    },
+    "arrival": {
+      "iataCode": "dmm",
+      "icaoCode": "oedf",
+      "terminal": "",
+      "gate": "25",
+      "scheduledTime": "03:25"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1156",
+      "iataNumber": "qr1156",
+      "icaoNumber": "qtr1156"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:20"
+    },
+    "arrival": {
+      "iataCode": "ath",
+      "icaoCode": "lgav",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:00"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "211",
+      "iataNumber": "qr211",
+      "icaoNumber": "qtr211"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:25"
+    },
+    "arrival": {
+      "iataCode": "fco",
+      "icaoCode": "lirf",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "07:25"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "115",
+      "iataNumber": "qr115",
+      "icaoNumber": "qtr115"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:35"
+    },
+    "arrival": {
+      "iataCode": "kul",
+      "icaoCode": "wmkk",
+      "terminal": "1",
+      "gate": "c36",
+      "scheduledTime": "15:15"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "852",
+      "iataNumber": "qr852",
+      "icaoNumber": "qtr852"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:30"
+    },
+    "arrival": {
+      "iataCode": "per",
+      "icaoCode": "ypph",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "18:35"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "900",
+      "iataNumber": "qr900",
+      "icaoNumber": "qtr900"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:40"
+    },
+    "arrival": {
+      "iataCode": "khi",
+      "icaoCode": "opkc",
+      "terminal": "m",
+      "gate": "",
+      "scheduledTime": "07:15"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "610",
+      "iataNumber": "qr610",
+      "icaoNumber": "qtr610"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:35"
+    },
+    "arrival": {
+      "iataCode": "cgk",
+      "icaoCode": "wiii",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "15:35"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "956",
+      "iataNumber": "qr956",
+      "icaoNumber": "qtr956"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:50"
+    },
+    "arrival": {
+      "iataCode": "nrt",
+      "icaoCode": "rjaa",
+      "terminal": "2",
+      "gate": "63",
+      "scheduledTime": "19:10"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways (paris saint germain livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "806",
+      "iataNumber": "qr806",
+      "icaoNumber": "qtr806"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:45"
+    },
+    "arrival": {
+      "iataCode": "dps",
+      "icaoCode": "wadd",
+      "terminal": "i",
+      "gate": "",
+      "scheduledTime": "17:35"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "962",
+      "iataNumber": "qr962",
+      "icaoNumber": "qtr962"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:45"
+    },
+    "arrival": {
+      "iataCode": "han",
+      "icaoCode": "vvnb",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "13:55"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "976",
+      "iataNumber": "qr976",
+      "icaoNumber": "qtr976"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:55"
+    },
+    "arrival": {
+      "iataCode": "otp",
+      "icaoCode": "lrop",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:45"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "219",
+      "iataNumber": "qr219",
+      "icaoNumber": "qtr219"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "03:05"
+    },
+    "arrival": {
+      "iataCode": "sez",
+      "icaoCode": "fsia",
+      "terminal": "i",
+      "gate": "",
+      "scheduledTime": "08:55"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-2dz(lr)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "678",
+      "iataNumber": "qr678",
+      "icaoNumber": "qtr678"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "waw",
+      "icaoCode": "epwa",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:00"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "263",
+      "iataNumber": "qr263",
+      "icaoNumber": "qtr263"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "04:50"
+    },
+    "arrival": {
+      "iataCode": "ams",
+      "icaoCode": "eham",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "10:40"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-f"
+    },
+    "airline": {
+      "name": "qatar cargo",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "8203",
+      "iataNumber": "qr8203",
+      "icaoNumber": "qtr8203"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "d6",
+      "scheduledTime": "07:15"
+    },
+    "arrival": {
+      "iataCode": "tbs",
+      "icaoCode": "ugtb",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "13:15"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "255",
+      "iataNumber": "qr255",
+      "icaoNumber": "qtr255"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:15"
+    },
+    "arrival": {
+      "iataCode": "lun",
+      "icaoCode": "flkk",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "14:25"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1451",
+      "iataNumber": "qr1451",
+      "icaoNumber": "qtr1451"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c30",
+      "scheduledTime": "08:50"
+    },
+    "arrival": {
+      "iataCode": "gva",
+      "icaoCode": "lsgg",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:20"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "99",
+      "iataNumber": "qr99",
+      "icaoNumber": "qtr99"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:15"
+    },
+    "arrival": {
+      "iataCode": "prg",
+      "icaoCode": "lkpr",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "14:20"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "291",
+      "iataNumber": "qr291",
+      "icaoNumber": "qtr291"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:30"
+    },
+    "arrival": {
+      "iataCode": "icn",
+      "icaoCode": "rksi",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "00:15"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-fdz"
+    },
+    "airline": {
+      "name": "qatar cargo",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "8984",
+      "iataNumber": "qr8984",
+      "icaoNumber": "qtr8984"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:55"
+    },
+    "arrival": {
+      "iataCode": "pvg",
+      "icaoCode": "zspd",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "00:10"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-f"
+    },
+    "airline": {
+      "name": "qatar cargo",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "8960",
+      "iataNumber": "qr8960",
+      "icaoNumber": "qtr8960"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:00"
+    },
+    "arrival": {
+      "iataCode": "ruh",
+      "icaoCode": "oerk",
+      "terminal": "5",
+      "gate": "",
+      "scheduledTime": "21:30"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1168",
+      "iataNumber": "qr1168",
+      "icaoNumber": "qtr1168"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:40"
+    },
+    "arrival": {
+      "iataCode": "ruh",
+      "icaoCode": "oerk",
+      "terminal": "5",
+      "gate": "",
+      "scheduledTime": "20:10"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-367(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1172",
+      "iataNumber": "qr1172",
+      "icaoNumber": "qtr1172"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:00"
+    },
+    "arrival": {
+      "iataCode": "ebb",
+      "icaoCode": "huen",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "00:10"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1391",
+      "iataNumber": "qr1391",
+      "icaoNumber": "qtr1391"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:00"
+    },
+    "arrival": {
+      "iataCode": "mux",
+      "icaoCode": "opmt",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "01:10"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "616",
+      "iataNumber": "qr616",
+      "icaoNumber": "qtr616"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "e2",
+      "scheduledTime": "20:35"
+    },
+    "arrival": {
+      "iataCode": "nrt",
+      "icaoCode": "rjaa",
+      "terminal": "2",
+      "gate": "98",
+      "scheduledTime": "12:55"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "808",
+      "iataNumber": "qr808",
+      "icaoNumber": "qtr808"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:25"
+    },
+    "arrival": {
+      "iataCode": "amm",
+      "icaoCode": "ojai",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "23:40"
+    },
+    "aircraft": {
+      "modelCode": "a20n",
+      "modelText": "airbus a320-271n"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "6106",
+      "iataNumber": "qr6106",
+      "icaoNumber": "qtr6106"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "royal jordanian",
+        "iataCode": "rj",
+        "icaoCode": "rja"
+      },
+      "flight": {
+        "number": "655",
+        "iataNumber": "rj655",
+        "icaoNumber": "rja655"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c19",
+      "scheduledTime": "00:20"
+    },
+    "arrival": {
+      "iataCode": "gru",
+      "icaoCode": "sbgr",
+      "terminal": "3",
+      "gate": "",
+      "scheduledTime": "09:00"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-2dz(lr)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "785",
+      "iataNumber": "qr785",
+      "icaoNumber": "qtr785"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:05"
+    },
+    "arrival": {
+      "iataCode": "sin",
+      "icaoCode": "wsss",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "21:15"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "944",
+      "iataNumber": "qr944",
+      "icaoNumber": "qtr944"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:55"
+    },
+    "arrival": {
+      "iataCode": "hkt",
+      "icaoCode": "vtsp",
+      "terminal": "i",
+      "gate": "",
+      "scheduledTime": "18:50"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "846",
+      "iataNumber": "qr846",
+      "icaoNumber": "qtr846"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:45"
+    },
+    "arrival": {
+      "iataCode": "iah",
+      "icaoCode": "kiah",
+      "terminal": "e",
+      "gate": "",
+      "scheduledTime": "15:55"
+    },
+    "aircraft": {
+      "modelCode": "a35k",
+      "modelText": "airbus a350-1041"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "713",
+      "iataNumber": "qr713",
+      "icaoNumber": "qtr713"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c9",
+      "scheduledTime": "08:15"
+    },
+    "arrival": {
+      "iataCode": "jfk",
+      "icaoCode": "kjfk",
+      "terminal": "8",
+      "gate": "",
+      "scheduledTime": "15:10"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "701",
+      "iataNumber": "qr701",
+      "icaoNumber": "qtr701"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "b6",
+      "scheduledTime": "09:30"
+    },
+    "arrival": {
+      "iataCode": "tun",
+      "icaoCode": "dtta",
+      "terminal": "m",
+      "gate": "",
+      "scheduledTime": "13:10"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1399",
+      "iataNumber": "qr1399",
+      "icaoNumber": "qtr1399"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "18:35"
+    },
+    "arrival": {
+      "iataCode": "ala",
+      "icaoCode": "uaaa",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "03:00"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "389",
+      "iataNumber": "qr389",
+      "icaoNumber": "qtr389"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c13",
+      "scheduledTime": "02:00"
+    },
+    "arrival": {
+      "iataCode": "bkk",
+      "icaoCode": "vtbs",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "12:55"
+    },
+    "aircraft": {
+      "modelCode": "a388",
+      "modelText": "airbus a380-861"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "834",
+      "iataNumber": "qr834",
+      "icaoNumber": "qtr834"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "03:10"
+    },
+    "arrival": {
+      "iataCode": "ams",
+      "icaoCode": "eham",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "09:00"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-fdz"
+    },
+    "airline": {
+      "name": "qatar cargo",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "8205",
+      "iataNumber": "qr8205",
+      "icaoNumber": "qtr8205"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:40"
+    },
+    "arrival": {
+      "iataCode": "gyd",
+      "icaoCode": "ubbb",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "19:55"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "351",
+      "iataNumber": "qr351",
+      "icaoNumber": "qtr351"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c82",
+      "scheduledTime": "10:50"
+    },
+    "arrival": {
+      "iataCode": "shj",
+      "icaoCode": "omsj",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "13:05"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1062",
+      "iataNumber": "qr1062",
+      "icaoNumber": "qtr1062"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "21:00"
+    },
+    "arrival": {
+      "iataCode": "shj",
+      "icaoCode": "omsj",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "23:15"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1058",
+      "iataNumber": "qr1058",
+      "icaoNumber": "qtr1058"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:50"
+    },
+    "arrival": {
+      "iataCode": "los",
+      "icaoCode": "dnmm",
+      "terminal": "2i",
+      "gate": "",
+      "scheduledTime": "13:15"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1405",
+      "iataNumber": "qr1405",
+      "icaoNumber": "qtr1405"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:35"
+    },
+    "arrival": {
+      "iataCode": "nbo",
+      "icaoCode": "hkjk",
+      "terminal": "1a",
+      "gate": "",
+      "scheduledTime": "13:40"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1345",
+      "iataNumber": "qr1345",
+      "icaoNumber": "qtr1345"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "06:50"
+    },
+    "arrival": {
+      "iataCode": "ktm",
+      "icaoCode": "vnkt",
+      "terminal": "i",
+      "gate": "",
+      "scheduledTime": "14:15"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways (25 years of excellence sticker)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "650",
+      "iataNumber": "qr650",
+      "icaoNumber": "qtr650"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:30"
+    },
+    "arrival": {
+      "iataCode": "bkk",
+      "icaoCode": "vtbs",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:25"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "826",
+      "iataNumber": "qr826",
+      "icaoNumber": "qtr826"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "16:30"
+    },
+    "arrival": {
+      "iataCode": "mct",
+      "icaoCode": "ooms",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "19:00"
+    },
+    "aircraft": {
+      "modelCode": "b38m",
+      "modelText": "boeing 737 max 8"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4633",
+      "iataNumber": "qr4633",
+      "icaoNumber": "qtr4633"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "oman air",
+        "iataCode": "wy",
+        "icaoCode": "oma"
+      },
+      "flight": {
+        "number": "664",
+        "iataNumber": "wy664",
+        "icaoNumber": "oma664"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:30"
+    },
+    "arrival": {
+      "iataCode": "jnb",
+      "icaoCode": "faor",
+      "terminal": "a",
+      "gate": "a07",
+      "scheduledTime": "04:00"
+    },
+    "aircraft": {
+      "modelCode": "a359",
+      "modelText": "airbus a350-941"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1365",
+      "iataNumber": "qr1365",
+      "icaoNumber": "qtr1365"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a3",
+      "scheduledTime": "01:15"
+    },
+    "arrival": {
+      "iataCode": "lhr",
+      "icaoCode": "egll",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "06:30"
+    },
+    "aircraft": {
+      "modelCode": "a388",
+      "modelText": "airbus a380-861"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "103",
+      "iataNumber": "qr103",
+      "icaoNumber": "qtr103"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "17:45"
+    },
+    "arrival": {
+      "iataCode": "jed",
+      "icaoCode": "oejn",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "20:15"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1192",
+      "iataNumber": "qr1192",
+      "icaoNumber": "qtr1192"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c11",
+      "scheduledTime": "01:35"
+    },
+    "arrival": {
+      "iataCode": "mel",
+      "icaoCode": "ymml",
+      "terminal": "2",
+      "gate": "10",
+      "scheduledTime": "22:05"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "8403",
+      "iataNumber": "qr8403",
+      "icaoNumber": "qtr8403"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "qatar airways",
+        "iataCode": "qr",
+        "icaoCode": "qtr"
+      },
+      "flight": {
+        "number": "8",
+        "iataNumber": "qr8",
+        "icaoNumber": "qtr8"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "c11",
+      "scheduledTime": "01:35"
+    },
+    "arrival": {
+      "iataCode": "mel",
+      "icaoCode": "ymml",
+      "terminal": "2",
+      "gate": "10",
+      "scheduledTime": "22:05"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "8",
+      "iataNumber": "qr8",
+      "icaoNumber": "qtr8"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "14:30"
+    },
+    "arrival": {
+      "iataCode": "dub",
+      "icaoCode": "eidw",
+      "terminal": "1",
+      "gate": "",
+      "scheduledTime": "20:15"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "45",
+      "iataNumber": "qr45",
+      "icaoNumber": "qtr45"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "20:25"
+    },
+    "arrival": {
+      "iataCode": "hyd",
+      "icaoCode": "vohs",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "02:55"
+    },
+    "aircraft": {
+      "modelCode": "a21n",
+      "modelText": "airbus a321-252nx"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "4774",
+      "iataNumber": "qr4774",
+      "icaoNumber": "qtr4774"
+    },
+    "codeshared": {
+      "airline": {
+        "name": "indigo",
+        "iataCode": "6e",
+        "icaoCode": "igo"
+      },
+      "flight": {
+        "number": "1316",
+        "iataNumber": "6e1316",
+        "icaoNumber": "igo1316"
+      }
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "08:30"
+    },
+    "arrival": {
+      "iataCode": "pvg",
+      "icaoCode": "zspd",
+      "terminal": "2",
+      "gate": "",
+      "scheduledTime": "22:40"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "872",
+      "iataNumber": "qr872",
+      "icaoNumber": "qtr872"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "13:30"
+    },
+    "arrival": {
+      "iataCode": "shj",
+      "icaoCode": "omsj",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:45"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1120",
+      "iataNumber": "qr1120",
+      "icaoNumber": "qtr1120"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "d2",
+      "scheduledTime": "01:55"
+    },
+    "arrival": {
+      "iataCode": "svo",
+      "icaoCode": "uuee",
+      "terminal": "c",
+      "gate": "",
+      "scheduledTime": "08:25"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "337",
+      "iataNumber": "qr337",
+      "icaoNumber": "qtr337"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "a6",
+      "scheduledTime": "02:45"
+    },
+    "arrival": {
+      "iataCode": "lhr",
+      "icaoCode": "egll",
+      "terminal": "4",
+      "gate": "",
+      "scheduledTime": "08:00"
+    },
+    "aircraft": {
+      "modelCode": "b77l",
+      "modelText": "boeing 777-2dz(lr)"
+    },
+    "airline": {
+      "name": "qatar airways (oneworld livery)",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "119",
+      "iataNumber": "qr119",
+      "icaoNumber": "qtr119"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "3-6",
+      "scheduledTime": "08:45"
+    },
+    "arrival": {
+      "iataCode": "ruh",
+      "icaoCode": "oerk",
+      "terminal": "5",
+      "gate": "",
+      "scheduledTime": "10:15"
+    },
+    "aircraft": {
+      "modelCode": "b77w",
+      "modelText": "boeing 777-3dz(er)"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1240",
+      "iataNumber": "qr1240",
+      "icaoNumber": "qtr1240"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "17:45"
+    },
+    "arrival": {
+      "iataCode": "tun",
+      "icaoCode": "dtta",
+      "terminal": "m",
+      "gate": "",
+      "scheduledTime": "21:25"
+    },
+    "aircraft": {
+      "modelCode": "b789",
+      "modelText": "boeing 787-9 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1401",
+      "iataNumber": "qr1401",
+      "icaoNumber": "qtr1401"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "15:20"
+    },
+    "arrival": {
+      "iataCode": "ruh",
+      "icaoCode": "oerk",
+      "terminal": "5",
+      "gate": "",
+      "scheduledTime": "16:50"
+    },
+    "aircraft": {
+      "modelCode": "b788",
+      "modelText": "boeing 787-8 dreamliner"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1238",
+      "iataNumber": "qr1238",
+      "icaoNumber": "qtr1238"
+    }
+  },
+  {
+    "weekday": "2",
+    "departure": {
+      "iataCode": "doh",
+      "icaoCode": "othh",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "07:50"
+    },
+    "arrival": {
+      "iataCode": "sll",
+      "icaoCode": "oosa",
+      "terminal": "",
+      "gate": "",
+      "scheduledTime": "10:50"
+    },
+    "aircraft": {
+      "modelCode": "a320",
+      "modelText": "airbus a320-232"
+    },
+    "airline": {
+      "name": "qatar airways",
+      "iataCode": "qr",
+      "icaoCode": "qtr"
+    },
+    "flight": {
+      "number": "1144",
+      "iataNumber": "qr1144",
+      "icaoNumber": "qtr1144"
+    }
+  }
+]
