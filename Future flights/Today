@@ -1,0 +1,1715 @@
+[
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "788",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": "13",
+      "iataCode": "BAH",
+      "icaoCode": "OBBI",
+      "scheduledTime": "2026-08-10T13:55:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": "C16",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T13:00:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1102",
+      "icaoNumber": "QTR1102",
+      "number": "1102"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77X",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "HKG",
+      "icaoCode": "VHHH",
+      "scheduledTime": "2026-08-11T02:00:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T13:20:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8414",
+      "icaoNumber": "QTR8414",
+      "number": "8414"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "320",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "SHJ",
+      "icaoCode": "OMSJ",
+      "scheduledTime": "2026-08-10T15:45:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": "A7",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T13:30:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1120",
+      "icaoNumber": "QTR1120",
+      "number": "1120"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A2E3",
+      "icaoCode": "B77L",
+      "regNumber": "A7-BFV"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "MFM",
+      "icaoCode": "VMMC",
+      "scheduledTime": "2026-08-11T03:00:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T13:30:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8905",
+      "icaoNumber": "QTR8905",
+      "number": "8905"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77X",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "LGG",
+      "icaoCode": "EBLG",
+      "scheduledTime": "2026-08-10T19:20:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T13:45:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8157",
+      "icaoNumber": "QTR8157",
+      "number": "8157"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A2E1",
+      "icaoCode": "B77L",
+      "regNumber": "A7-BFT"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "FRA",
+      "icaoCode": "EDDF",
+      "scheduledTime": "2026-08-10T19:20:00.000",
+      "terminal": "3"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T12:50:00.000",
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T13:45:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8157",
+      "icaoNumber": "QTR8157",
+      "number": "8157"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A09A",
+      "icaoCode": "A320",
+      "regNumber": "A7-AHS"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": "05",
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "ATH",
+      "icaoCode": "LGAV",
+      "scheduledTime": "2026-08-10T18:30:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T14:00:00.000",
+      "gate": "C6",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T13:50:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR207",
+      "icaoNumber": "QTR207",
+      "number": "207"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "32N",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "AMM",
+      "icaoCode": "OJAI",
+      "scheduledTime": "2026-08-10T16:40:00.000",
+      "terminal": null
+    },
+    "codeshared": {
+      "airline": {
+        "iataCode": "rj",
+        "icaoCode": "rja",
+        "name": "royal jordanian"
+      },
+      "flight": {
+        "iataNumber": "rj653",
+        "icaoNumber": "rja653",
+        "number": "653"
+      }
+    },
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": "B4",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T13:55:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR6112",
+      "icaoNumber": "QTR6112",
+      "number": "6112"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A087",
+      "icaoCode": "A320",
+      "regNumber": "A7-AHA"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "TZX",
+      "icaoCode": "LTCG",
+      "scheduledTime": "2026-08-10T17:50:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T14:15:00.000",
+      "gate": "C13",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T14:05:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR319",
+      "icaoNumber": "QTR319",
+      "number": "319"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "320",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "AUH",
+      "icaoCode": "OMAA",
+      "scheduledTime": "2026-08-10T16:20:00.000",
+      "terminal": "A"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": "C93",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T14:10:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1050",
+      "icaoNumber": "QTR1050",
+      "number": "1050"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A376",
+      "icaoCode": "B77W",
+      "regNumber": "A7-BOE"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "IST",
+      "icaoCode": "LTFM",
+      "scheduledTime": "2026-08-10T18:35:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T14:25:00.000",
+      "gate": "C4",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T14:15:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR245",
+      "icaoNumber": "QTR245",
+      "number": "245"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "320",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "HAS",
+      "icaoCode": "OEHL",
+      "scheduledTime": "2026-08-10T16:35:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": "A3",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T14:35:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1228",
+      "icaoNumber": "QTR1228",
+      "number": "1228"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77W",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": "R6",
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "CAI",
+      "icaoCode": "HECA",
+      "scheduledTime": "2026-08-10T17:55:00.000",
+      "terminal": "2"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": "C10",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T14:40:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1301",
+      "icaoNumber": "QTR1301",
+      "number": "1301"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A2F5",
+      "icaoCode": "B789",
+      "regNumber": "A7-BHR"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "FRA",
+      "icaoCode": "EDDF",
+      "scheduledTime": "2026-08-10T20:05:00.000",
+      "terminal": "3"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T14:55:00.000",
+      "gate": "A8",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T14:45:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR71",
+      "icaoNumber": "QTR71",
+      "number": "71"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A2ED",
+      "icaoCode": "B789",
+      "regNumber": "A7-BHJ"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "MAN",
+      "icaoCode": "EGCC",
+      "scheduledTime": "2026-08-10T20:15:00.000",
+      "terminal": "2"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T15:05:00.000",
+      "gate": "C14",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T14:55:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR23",
+      "icaoNumber": "QTR23",
+      "number": "23"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A10B",
+      "icaoCode": "A359",
+      "regNumber": "A7-ALW"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "AMS",
+      "icaoCode": "EHAM",
+      "scheduledTime": "2026-08-10T20:45:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T15:10:00.000",
+      "gate": "C24",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:00:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR283",
+      "icaoNumber": "QTR283",
+      "number": "283"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "789",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": "108",
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "MAD",
+      "icaoCode": "LEMD",
+      "scheduledTime": "2026-08-10T21:15:00.000",
+      "terminal": "4"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T14:20:00.000",
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:05:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR151",
+      "icaoNumber": "QTR151",
+      "number": "151"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A2B8",
+      "icaoCode": "B77W",
+      "regNumber": "A7-BET"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "LHR",
+      "icaoCode": "EGLL",
+      "scheduledTime": "2026-08-10T20:25:00.000",
+      "terminal": "4"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T15:20:00.000",
+      "gate": "E2",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:10:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR15",
+      "icaoNumber": "QTR15",
+      "number": "15"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A2FD",
+      "icaoCode": "B789",
+      "regNumber": "A7-BHZ"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": "15",
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "BCN",
+      "icaoCode": "LEBL",
+      "scheduledTime": "2026-08-10T21:15:00.000",
+      "terminal": "1"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T15:20:00.000",
+      "gate": "C19",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:10:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR141",
+      "icaoNumber": "QTR141",
+      "number": "141"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77X",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "BUD",
+      "icaoCode": "LHBP",
+      "scheduledTime": "2026-08-10T19:40:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:15:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8259",
+      "icaoNumber": "QTR8259",
+      "number": "8259"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A079",
+      "icaoCode": "B77W",
+      "regNumber": "A7-BAL"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "CDG",
+      "icaoCode": "LFPG",
+      "scheduledTime": "2026-08-10T21:10:00.000",
+      "terminal": "1"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T15:30:00.000",
+      "gate": "C25",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:20:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR37",
+      "icaoNumber": "QTR37",
+      "number": "37"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "359",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "MXP",
+      "icaoCode": "LIMC",
+      "scheduledTime": "2026-08-10T21:00:00.000",
+      "terminal": "1"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": "B1",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:20:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR117",
+      "icaoNumber": "QTR117",
+      "number": "117"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A105",
+      "icaoCode": "A359",
+      "regNumber": "A7-ALQ"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "ALG",
+      "icaoCode": "DAAG",
+      "scheduledTime": "2026-08-10T19:50:00.000",
+      "terminal": "4"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T15:35:00.000",
+      "gate": "C1",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:25:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1435",
+      "icaoNumber": "QTR1435",
+      "number": "1435"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A089",
+      "icaoCode": "A320",
+      "regNumber": "A7-AHC"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "TBS",
+      "icaoCode": "UGTB",
+      "scheduledTime": "2026-08-10T20:10:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T15:40:00.000",
+      "gate": "C9",
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:30:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR253",
+      "icaoNumber": "QTR253",
+      "number": "253"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "A359",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "JFK",
+      "icaoCode": "KJFK",
+      "scheduledTime": "2026-08-10T22:30:00.000",
+      "terminal": "8"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T15:45:00.000",
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:35:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR705",
+      "icaoNumber": "QTR705",
+      "number": "705"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "320",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "SHJ",
+      "icaoCode": "OMSJ",
+      "scheduledTime": "2026-08-10T17:50:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:35:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1066",
+      "icaoNumber": "QTR1066",
+      "number": "1066"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77X",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "MAD",
+      "icaoCode": "LEMD",
+      "scheduledTime": "2026-08-10T21:55:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T14:20:00.000",
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:40:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8263",
+      "icaoNumber": "QTR8263",
+      "number": "8263"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77W",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": "3",
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "BEY",
+      "icaoCode": "OLBA",
+      "scheduledTime": "2026-08-10T18:50:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:50:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR426",
+      "icaoNumber": "QTR426",
+      "number": "426"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "788",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "JED",
+      "icaoCode": "OEJN",
+      "scheduledTime": "2026-08-10T18:20:00.000",
+      "terminal": "1"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:50:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1186",
+      "icaoNumber": "QTR1186",
+      "number": "1186"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A102",
+      "icaoCode": "A359",
+      "regNumber": "A7-ALN"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "FCO",
+      "icaoCode": "LIRF",
+      "scheduledTime": "2026-08-10T20:55:00.000",
+      "terminal": "3"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "10",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T16:05:00.000",
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T15:55:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR113",
+      "icaoNumber": "QTR113",
+      "number": "113"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77X",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "SYD",
+      "icaoCode": "YSSY",
+      "scheduledTime": "2026-08-11T13:05:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T16:05:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8428",
+      "icaoNumber": "QTR8428",
+      "number": "8428"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77X",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "LOS",
+      "icaoCode": "DNMM",
+      "scheduledTime": "2026-08-10T21:30:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T16:10:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8198",
+      "icaoNumber": "QTR8198",
+      "number": "8198"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77W",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "AMM",
+      "icaoCode": "OJAI",
+      "scheduledTime": "2026-08-10T18:55:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T16:15:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR400",
+      "icaoNumber": "QTR400",
+      "number": "400"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "06A2E0",
+      "icaoCode": "B77L",
+      "regNumber": "A7-BFS"
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "LGG",
+      "icaoCode": "EBLG",
+      "scheduledTime": "2026-08-10T22:50:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": "30",
+      "estimatedRunway": null,
+      "estimatedTime": "2026-08-10T17:45:00.000",
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T17:15:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8166",
+      "icaoNumber": "QTR8166",
+      "number": "8166"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77X",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "MAD",
+      "icaoCode": "LEMD",
+      "scheduledTime": "2026-08-11T00:10:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T17:25:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR8237",
+      "icaoNumber": "QTR8237",
+      "number": "8237"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "77W",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "MNL",
+      "icaoCode": "RPLL",
+      "scheduledTime": "2026-08-11T08:15:00.000",
+      "terminal": "3"
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T17:50:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR934",
+      "icaoNumber": "QTR934",
+      "number": "934"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  },
+  {
+    "aircraft": {
+      "icao24": "",
+      "icaoCode": "320",
+      "regNumber": ""
+    },
+    "airline": {
+      "iataCode": "QR",
+      "icaoCode": "QTR",
+      "name": "Qatar Airways"
+    },
+    "arrival": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "SHJ",
+      "icaoCode": "OMSJ",
+      "scheduledTime": "2026-08-10T20:20:00.000",
+      "terminal": null
+    },
+    "codeshared": null,
+    "departure": {
+      "actualRunway": null,
+      "actualTime": null,
+      "baggage": null,
+      "delay": null,
+      "estimatedRunway": null,
+      "estimatedTime": null,
+      "gate": null,
+      "iataCode": "DOH",
+      "icaoCode": "OTHH",
+      "scheduledTime": "2026-08-10T18:05:00.000",
+      "terminal": null
+    },
+    "flight": {
+      "iataNumber": "QR1034",
+      "icaoNumber": "QTR1034",
+      "number": "1034"
+    },
+    "status": "scheduled",
+    "type": "departure"
+  }
+]
